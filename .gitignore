@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Drawing files (.drawio, .dio, .svg, .png)
+*.drawio
+*.dio
+*.svg
+*.png
+
 # Distribution / packaging
 .Python
 build/
